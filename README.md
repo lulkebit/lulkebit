@@ -1,6 +1,6 @@
 # Hi there, I'm Luke 👋 
 
-[![Website](https://img.shields.io/website?label=lukeschroeter.ml&style=for-the-badge&url=https%3A%2F%2Flukeschroeter.ml%2Fluke)](https://lukeschroeter.ml/luke)
+[![Website](https://img.shields.io/website?label=lukeschroeter.ml&style=for-the-badge&url=https%3A%2F%2Flukeschroeter.ml%2Fluke)](http://lukeschroeter.ml/luke)
 
 ## I'm a 16-year-old Student and self-taught Developer!!
 
@@ -16,14 +16,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/luke-schr%C3%B6ter-91051a231/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luke-schr%C3%B6ter-91051a231/#gh-dark-mode-only)
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 
 <br />
 <br />
@@ -37,5 +29,5 @@
 
 </details>
 
-[website]: https://lukeschroeter.ml/luke
+[website]: http://lukeschroeter.ml/luke
 [linkedin]: https://www.linkedin.com/in/luke-schr%C3%B6ter-91051a231/
