@@ -16,10 +16,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/luke-schr%C3%B6ter-91051a231/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luke-schr%C3%B6ter-91051a231/#gh-dark-mode-only)
 
-
-<br />
-<br />
-
 ---
 
 <details>
